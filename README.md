@@ -1,7 +1,5 @@
 # 🌐 GoogleTalker: A Java Interface for
 
-Google Searches
-
 This project aims to interact with Google using Java to perform searches. It includes three primary classes: `GoogleTalker`, `GReader`, and `GWriter`.
 
 ## 📝 Description
@@ -24,5 +22,4 @@ this repository;
 ## ⚠️ Limitations:
 
 - This project is a proof of concept and is not recommended for production use.
-The project's connection and interaction methods with Google do not follow standard practices. For genuine applications, consider using particular APIs or libraries.
-   
+- The project's connection and interaction methods with Google do not follow standard practices. 

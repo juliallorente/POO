@@ -1,25 +1,28 @@
-# 🌐 GoogleTalker: Uma Interface Java para Pesquisas no Google
+# 🌐 GoogleTalker: A Java Interface for
 
-Este projeto é uma tentativa rudimentar de interagir com o Google para realizar pesquisas usando Java. Ele consiste em três classes principais: `GoogleTalker`, `GReader` e `GWriter`.
+Google Searches
 
-## 📝 Descrição
+This project aims to interact with Google using Java to perform searches. It includes three primary classes: `GoogleTalker`, `GReader`, and `GWriter`.
 
-- **GoogleTalker**: Esta é a classe principal que gerencia a conexão com o Google e a interação entre `GReader` e `GWriter`.
-- **GReader**: Responsável por ler a resposta do Google após uma pesquisa ser realizada.
-- **GWriter**: Responsável por escrever e enviar a requisição de pesquisa para o Google.
+## 📝 Description
 
-## 🛠 Pré-requisitos
+- GoogleTalker is the primary class responsible for managing the connection to Google and facilitating interaction between `GReader` and `GWriter`.
+- **GReader** is tasked with reading responses from Google following a search.
+- **GWriter** is responsible for writing data to Google. Responsible for composing and submitting the search request to Google.
 
-- Java JDK 8 ou superior.
+## 🛠 Prerequisites:
 
-## 🚀 Como usar
+Java JDK 8 or later.
 
-1. Clone este repositório;
-2. Navegue até o diretório do projeto;
-3. Compile e execute o projeto;
+## 🚀 How to Use:
 
-## ⚠️ Limitações
+1. Duplicate
+this repository;
+2. Go to the project folder;
+3. Build and execute the project.
 
-- Este projeto é uma prova de conceito e não é recomendado para uso em produção.
-- A maneira como o projeto se conecta e interage com o Google não segue as práticas padrão. Para aplicações reais, considere usar APIs ou bibliotecas específicas.
+## ⚠️ Limitations:
+
+- This project is a proof of concept and is not recommended for production use.
+The project's connection and interaction methods with Google do not follow standard practices. For genuine applications, consider using particular APIs or libraries.
    
